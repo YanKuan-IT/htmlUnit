@@ -8,7 +8,7 @@ import com.gargoylesoftware.htmlunit.FailingHttpStatusCodeException;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 /**
- * 抓取百度云资源
+ * 抓取百度云资源   
  *	使用httpClient无法获取数据，原因就是百度云的数据加载 是通过ajax加载以及js渲染上去的，所以用httpclient搞不定
  *
  */
