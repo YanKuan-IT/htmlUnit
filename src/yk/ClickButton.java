@@ -12,7 +12,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.gargoylesoftware.htmlunit.html.HtmlSubmitInput;
 
 /**
- * 模拟页面按钮点击
+ * 模拟页面按钮点击  
  * 
  */
 public class ClickButton {
