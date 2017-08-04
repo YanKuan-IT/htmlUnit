@@ -53,7 +53,7 @@ public class HtmlUnit {
 //              <span>
 //                Java开源项目分享
 //              </span>
-//            </a>
+//            </a>  
 //          </li>
             
             List<HtmlSpan> spanList = (List<HtmlSpan>) page.getByXPath("//div[@id='navMenu']/ul/li[2]/a/span");
