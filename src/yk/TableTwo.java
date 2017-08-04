@@ -34,7 +34,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlTable;
  */
 public class TableTwo {
 	public static void main(String[] args) {
-		//实例化web客户端
+		//实例化web客户端  
 		WebClient webClient = new WebClient(BrowserVersion.FIREFOX_24);
 		//取消css支持
 		webClient.getOptions().setCssEnabled(false);

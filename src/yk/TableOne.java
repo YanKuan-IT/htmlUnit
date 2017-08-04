@@ -12,7 +12,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlTableCell;
 import com.gargoylesoftware.htmlunit.html.HtmlTableRow;
 
 /**
- * 操作简单表格,获取表格的行与列
+ * 操作简单表格,获取表格的行与列  
  * http://www.java1234.com/crawler/table01.html
  * <!DOCTYPE html>
  * <html>

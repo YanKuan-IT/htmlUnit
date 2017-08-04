@@ -18,7 +18,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlTableRow;
  * 操作复杂表格,获取表格的行与列
  * http://www.java1234.com/crawler/table02.html
  * <!DOCTYPE html>
- * <html>
+ * <html>  
  * <head>
  * <meta charset="UTF-8">
  * <title>复杂表格</title>
